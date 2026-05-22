@@ -1,0 +1,14 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "publish-gh-pages",
+      "type": "shell",
+      "command": "git subtree push --prefix html/html origin gh-pages",
+      "group": {
+        "kind": "none",
+        "isDefault": false
+      }
+    }
+  ]
+}
