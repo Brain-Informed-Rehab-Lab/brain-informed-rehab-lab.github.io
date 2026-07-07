@@ -13,5 +13,4 @@ We are an interdisciplinary research group based in the Department of Neuroscien
    :maxdepth: 2
    :caption: Contents:
 
-   for_internal_use
 
